@@ -1,0 +1,16 @@
+/*Este es un comentario en CSS para modificar ID usamos #*/
+
+
+<style> 
+        p {color: blueviolet;}
+        .tercer_parrafo {font-size: xx-large; color: rebeccapurple;}
+        .tercer_parrafo:hover {color: #33996e;}
+        
+        #HOVER {
+            color: red;
+        }
+
+
+
+    
+</style>

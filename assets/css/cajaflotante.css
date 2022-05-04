@@ -1,0 +1,35 @@
+body {
+    background-color: aquamarine;
+}
+
+.caja_flotante {
+    display: block;
+    background-color: #fff;
+    border-radius: 13px;
+    border-color: rgba(0, 0, 0, 0.177);
+    border-style: solid;
+    border-top: solid 0px;
+   }
+
+.cabecera {
+    padding: 30px 55px 30px 55px;
+    border-bottom: solid aquamarine;
+    text-align: center;
+}
+
+.contenido {
+    padding: 30px 55px 30px 55px;
+    border-bottom: solid aquamarine;
+    text-align: center;
+}
+
+.botones {
+    display: flex;
+    flex-direction: row;
+    padding: 30px 55px 30px 55px;
+   justify-content: space-between;   
+}
+
+.btn {
+    padding: 10px 12px 10px 12px;
+}

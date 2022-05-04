@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: 700; 
+    background-color: blanchedalmond;
+}
+
+fieldset{
+    padding: 0px;
+    margin: 0px;
+}
+
+#container-header {
+    background-color: green;
+    width: 600px;
+    padding: 20px 25px 20px 25px;
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    
+
+#form-wrapper {
+    width: ;
+    background-color: #fff;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+#form-name {
+    
+}
+
+
+#encabezado {
+font-size: 33px;
+padding: 10px 10px 10px 10px;
+color: #fff;
+
+}
+
+
+#formulario {
+    height: auto;
+    text-align: center;
+}
+
+
+
+
+
+#dos_columnas {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    
+
+}
+
+#email_adultos {
+    width: 50%;
+}
+
+#check {
+    width: 50%;
+}

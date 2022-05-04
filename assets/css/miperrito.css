@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+}
+
+.titulo {
+    font-size: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#img-container {
+    height: 450px;
+}
+
+.lightbox {
+    height: 80px;
+}
